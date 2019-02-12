@@ -6,9 +6,6 @@
 			"": "vendor/kichijyo/codeigniter3.x_orm_model"
 		}
 	},
-	"require": {
-		"kichijyo/codeigniter3.x_orm_model": "*"
-	},
 	"authors": [{
 		"name": "Jason",
 		"email": "2358357748@qq.com"

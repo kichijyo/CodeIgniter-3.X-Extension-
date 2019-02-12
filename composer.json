@@ -1,9 +1,10 @@
 {
 	"name": "kichijyo/codeigniter3.x_orm_model",
 	"description": "CodeIgniter3X ORM Model",
-	"autoload" : {
-		"psr-4" : {
-			"" : "vendor/kichijyo/codeigniter3.x_orm_model",			
+	"autoload": {
+		"psr-4": {
+			"": "vendor/kichijyo/codeigniter3.x_orm_model"
+		}
 	},
 	"authors": [{
 		"name": "Jason",

@@ -4,7 +4,7 @@
 	"type": "library",
 	"version":"1.0",
 	"require": {
-		"codeigniter/framework": "*"
+		"kichijyo/codeigniter3.x_orm_model":"*"
 	},
 	"authors": [{
 		"name": "Jason",

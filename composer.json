@@ -7,7 +7,7 @@
 		}
 	},
 	"require": {
-		"kichijyo/codeigniter3.x_orm_model": "dev-master"
+		"kichijyo/codeigniter3.x_orm_model": "*"
 	},
 	"authors": [{
 		"name": "Jason",

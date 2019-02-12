@@ -1,4 +1,5 @@
 <?php
+
 /**
  * CI仅仅是做了数据库封装，但是其并没有做模型封装，我们可以把ORM模型建立出来，放在application的core中。
  * CI is just doing database encapsulation, but it is not model encapsulation. 

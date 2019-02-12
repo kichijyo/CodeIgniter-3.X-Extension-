@@ -3,7 +3,7 @@
 	"description": "CodeIgniter3X ORM Model",
 	"autoload": {
 		"psr-4": {
-			"": "./"
+			"": ""
 		}
 	},
 	"authors": [{

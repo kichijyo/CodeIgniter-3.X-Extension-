@@ -2,6 +2,7 @@
 	"name": "kichijyo/codeigniter3.x_orm_model",
 	"description": "CodeIgniter3X ORM Model",
 	"type": "library",
+	"version":"1.0",
 	"require": {
 		"codeigniter/framework": "*"
 	},

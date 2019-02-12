@@ -1,7 +1,7 @@
 {
     "name" : "kichijyo/codeigniter3.x_orm_model",
  
-    "type" : "CodeIgniter3X extension",
+    "type" : "CodeIgniter3X-extension",
  
     "description" : "CodeIgniter3X ORM Model",
  

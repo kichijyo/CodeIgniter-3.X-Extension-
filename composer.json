@@ -1,18 +1,13 @@
 {
-	"name" : "kichijyo/codeigniter3.x_orm_model",
-	"description" : "CodeIgniter3X ORM Model",
-	"type" : "library",
-	"require" : {
-		"codeigniter/framework" : "*"
+	"name": "kichijyo/codeigniter3.x_orm_model",
+	"description": "CodeIgniter3X ORM Model",
+	"type": "library",
+	"require": {
+		"codeigniter/framework": "*"
 	},
-	"authors" : [{
-			"name" : "Jason",
-			"email" : "2358357748@qq.com"
-		}
-	],
-	"repositories" : [{
-			"type" : "composer",
-			"url" : "https://packagist.phpcomposer.com"
-		}
-	]
+	"authors": [{
+		"name": "Jason",
+		"email": "2358357748@qq.com"
+	}],
+	"repositories": []
 }

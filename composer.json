@@ -1,20 +1,13 @@
 {
-    "name" : "kichijyo/codeigniter3.x_orm_model",
- 
-    "type" : "CodeIgniter3X-extension",
- 
-    "description" : "CodeIgniter3X ORM Model",
- 
-    "keywords": ["CodeIgniter", "ORM"],
-
-    "authors": [
-      {
-        "name" : "Jason",
-        "email" : "2358357748@qq.com"
-      }
-    ],
- 
-    "require": {
-       "codeigniter/framework" : "*"
-    }
+	"name" : "kichijyo/codeigniter3.x_orm_model",
+	"description" : "CodeIgniter3X ORM Model",
+	"type" : "library",
+	"require" : {
+		"codeigniter/framework" : "*"
+	},
+	"authors" : [{
+			"name" : "Jason",
+			"email" : "2358357748@qq.com"
+		}
+	]
 }

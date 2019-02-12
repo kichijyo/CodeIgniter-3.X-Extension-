@@ -1,0 +1,20 @@
+{
+    "name" : "CodeIgniter/ORM_Model",
+ 
+    "type" : "CodeIgniter3.X-extension",
+ 
+    "description" : "CodeIgniter3.X ORM Model",
+ 
+    "keywords": ["CodeIgniter", "ORM"],
+
+    "authors": [
+      {
+        "name" : "Jason",
+        "email" : "2358357748@qq.com"
+      }
+    ],
+ 
+    "require": {
+       "codeigniter/framework" : "*"
+    }
+}

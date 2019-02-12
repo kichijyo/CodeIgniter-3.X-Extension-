@@ -9,5 +9,10 @@
 			"name" : "Jason",
 			"email" : "2358357748@qq.com"
 		}
+	],
+	"repositories" : [{
+			"type" : "composer",
+			"url" : "http://packagist.phpcomposer.com"
+		}
 	]
 }
